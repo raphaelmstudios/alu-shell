@@ -1,2 +1,2 @@
 #!/bin/bash
-vi 751 hello
+vi ugo+x hello
